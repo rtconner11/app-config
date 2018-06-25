@@ -11,5 +11,4 @@ logging:
     io:
       pivotal: DEBUG
       
-test:
-  value: hello world
+avalue: testing
